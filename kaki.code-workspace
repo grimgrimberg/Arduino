@@ -1,0 +1,47 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\NightDriverStrip"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"cmath": "cpp",
+			"vector": "cpp",
+			"algorithm": "cpp",
+			"atomic": "cpp",
+			"concepts": "cpp",
+			"cstddef": "cpp",
+			"cstdio": "cpp",
+			"cstdlib": "cpp",
+			"cstring": "cpp",
+			"ctime": "cpp",
+			"cwchar": "cpp",
+			"deque": "cpp",
+			"initializer_list": "cpp",
+			"istream": "cpp",
+			"iterator": "cpp",
+			"memory": "cpp",
+			"mutex": "cpp",
+			"new": "cpp",
+			"sstream": "cpp",
+			"streambuf": "cpp",
+			"string": "cpp",
+			"system_error": "cpp",
+			"thread": "cpp",
+			"tuple": "cpp",
+			"type_traits": "cpp",
+			"utility": "cpp",
+			"xiosbase": "cpp",
+			"xlocale": "cpp",
+			"xlocinfo": "cpp",
+			"xlocnum": "cpp",
+			"xmemory": "cpp",
+			"xstring": "cpp",
+			"xutility": "cpp"
+		}
+	}
+}
